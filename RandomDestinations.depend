@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1538578503 source:d:\c++ 2018\randomdestinations\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string.h>
+
